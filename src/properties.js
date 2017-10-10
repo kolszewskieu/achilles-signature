@@ -6,8 +6,8 @@ var properties = {
         "es": "Spanish",
         "pt": "Portuguese",
         "de": "Deutsch",
-        "thoughtworksLabel": "ThoughtWorks",
-        "thoughtworksUrl": "http://www.thoughtworks.com/",
+        "koLabel": "kolszewskieu",
+        "koUrl": "http://kolszewski.eu",
         "title": "Email Signature Generator",
         "subtitle": "Give us your details and we'll give you your brand.",
         "nameLabel": "Name",
@@ -33,7 +33,7 @@ var properties = {
         "selectSignatureLabel": "Select Signature",
         "instructionsLead": "After selecting your signature,",
         "instructions": "you will need to manually copy and paste it into your email client.",
-        "footnote": "Created by ThoughtWorks Toronto"
+        "footnote": "Created by KO"
     }
 }
 

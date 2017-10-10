@@ -26,8 +26,8 @@ class App extends Component {
           "es": "Spanish",
           "pt": "Portuguese",
           "de": "Deutsch",
-          "thoughtworksLabel": "ThoughtWorks",
-          "thoughtworksUrl": "http://www.thoughtworks.com/",
+          "koLabel": "kolszewskieu",
+          "koUrl": "http://kolszewski.eu/",
           "title": "Email Signature Generator",
           "subtitle": "Give us your details and we'll give you your brand.",
           "nameLabel": "Name",
@@ -53,7 +53,7 @@ class App extends Component {
           "selectSignatureLabel": "Select Signature",
           "instructionsLead": "After selecting your signature,",
           "instructions": "you will need to manually copy and paste it into your email client.",
-          "footnote": "Created by ThoughtWorks Toronto"
+          "footnote": "Created by KO"
       }
     console.log(this.properties);
     //theme = this.props.themes[this.state.theme];
@@ -149,12 +149,12 @@ class App extends Component {
                             ref="signature"
                             logo={{
                                 height: "31px",
-                                href: this.properties.thoughtworksUrl +
+                                href: this.properties.koUrl +
                                     "?utm_campaign=" + this.state.name.toLowerCase().replace(" ", "-") + "-signature&" +
                                     "utm_medium=email&" +
                                     "utm_source=achilles_signature",
                                 src: '',
-                                alt: this.properties.thoughtworksLabel
+                                alt: this.properties.koLabel
                             }}
                             color="black"
                             backgroundColor="white"
