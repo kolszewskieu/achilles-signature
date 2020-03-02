@@ -2,7 +2,7 @@
   "name": "achilles-signature",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://deltacodepl.github.io/achilles-signature",
+  "homepage": "http://stopka.achilles.pl/",
   "dependencies": {
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
