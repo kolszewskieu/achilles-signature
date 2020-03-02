@@ -40,7 +40,7 @@ class  Signature extends Component {
 						{/* Address  */}
 						<tr>
 							<td className="inner-td">
-								<span className="company-span">Achilles Polska Sp. z o.o.</span> <br/> <span className="company-span">ul. Miałki Szlak 52 <span className="brand-color">|</span> 80-717 Gdańsk</span>
+								<span className="company-span">Achilles Polska Sp. z o.o.</span> <br/> <span className="company-span">ul. Miałki Szlak 52 /HALA D <span className="brand-color">|</span> 80-717 Gdańsk</span>
 							</td>
 						</tr>
 
