@@ -40,15 +40,11 @@ class  Signature extends Component {
 						{/* Address  */}
 						<tr>
 							<td className="inner-td">
-								<span className="company-span">Achilles Polska Sp. z o.o.</span> <br/> <span className="company-span">ul. Miałki Szlak 52 /HALA D <span className="brand-color">|</span> 80-717 Gdańsk</span>
+								<span className="company-span">Achilles Polska Sp. z o.o.</span> <br/> <span className="company-span">ul. Miałki Szlak 52 /HALA D <span className="brand-color">|</span> 80-717 Gdańsk</span><span className="brand-color"> | </span><span className="company-span">tel. +48 58 683 60 30</span>
 							</td>
 						</tr>
 
-						<tr>
-							<td className="inner-td">
-								<span className="company-span">tel. +48 58 683 60 30</span>
-							</td>
-						</tr>
+						
 					</tbody>	
 					</table>
 				</td>
@@ -58,9 +54,14 @@ class  Signature extends Component {
 <table width="600" id="sig4" cellSpacing="0" cellPadding="0" style={{"borderSpacing":"0"}}>
 	<tbody>	
 		{/* Company Name */}
+		<tr width="600" >
+				<td style={{"background":"none", "borderTop":"solid 2px #f47920", "width":"600px", "margin":"2px 0px 0px 0px"}}></td>
+		</tr>
 		<tr className="color-tr">
 				<td width="600" style={{"textAlign":"left"}}>
 								<span className="web-span">www.achilles.pl</span>
+								<span className="spacer">&nbsp;</span>
+								<span className="web-span">www.segregatory24.pl</span>
 								<span className="spacer">&nbsp;</span>
 								<span className="web-span">www.uszlachetnianiedruku.pl</span>		
 				</td>
