@@ -40,7 +40,7 @@ class  Signature extends Component {
 						{/* Address  */}
 						<tr>
 							<td className="inner-td">
-								<span className="company-span">Achilles Polska Sp. z o.o.<span className="brand-color">|</span> Siedziba Główna</span> <br/> <span className="company-span">ul. M. Płażyńskiego 6 <span className="brand-color">|</span> 83-020 Cedry Wielkie</span>
+								<span className="company-span">Achilles Polska Sp. z o.o.<span className="brand-color">|</span> </span>
 							</td>
 						</tr>
 
@@ -61,8 +61,6 @@ class  Signature extends Component {
 		<tr className="color-tr">
 				<td width="600" style={{"textAlign":"left"}}>
 								<span className="web-span">www.achilles.pl</span>
-								<span className="spacer">&nbsp;</span>
-								<span className="web-span">www.segregatory24.pl</span>
 								<span className="spacer">&nbsp;</span>
 								<span className="web-span">www.uszlachetnianiedruku.pl</span>		
 				</td>
@@ -108,7 +106,7 @@ class  Signature extends Component {
 				<tr width="600">
 						<td style={{"wordWrap": "break-word", "background":"none", "border":"none", "margin":"0px 0px 0px 0px",
                         "padding":"0"}}>
-								<span style={{"fontSize":"12px", "color": "#A4A4A4", "textAlign":"justify"}}>Achilles Polska Sp. z o.o. ul. M.Płażyńskiego 6, 83-020 Cedry Wielkie<br/>
+								<span style={{"fontSize":"12px", "color": "#A4A4A4", "textAlign":"justify"}}>Achilles Polska Sp. z o.o. ul. Miałki Szlak 52, 80-717 Gdańsk<br/>
 								Spółka zarejestrowana w rejestrze przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd
 								Rejonowy Gdańsk – Północ w Gdańsku VII Wydział Gospodarczy Krajowego Rejestru Sądowego.
 								KRS 0000000622. NIP: 583-27-15-203. Kapitał Zakładowy: 2.280.000 PLN</span>
