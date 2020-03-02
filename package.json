@@ -2,11 +2,12 @@
   "name": "achilles-signature",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://kolszewskieu.github.io/achilles-signature",
+  "homepage": "http://kolszewskieu.github.io/achilles-signature",
   "dependencies": {
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "yarn": "^1.19.1"
   },
   "scripts": {
     "start": "react-scripts start",
