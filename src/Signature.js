@@ -86,8 +86,8 @@ class  Signature extends Component {
 							<a href="http://www.sgs.com/certifiedclients"><img src="http://cdn.achilles.pl/SGS_ISO 9001_TCL_LR.jpg" width="50px" /></a>
 					</span>
 				</td>
-				<td className="inner-td" style={{"textAlign":"rigth"}}>
-					<span className="iso-span">ISO 22000: 2005
+				<td className="inner-td" style={{"textAlign":"right"}}>
+					<span className="iso-span">ISO 22000: 2018
 							<a href="http://www.sgs.com/certifiedclients"><img src="http://cdn.achilles.pl/SGS_ISO 22000_TCL_LR.jpg" width="50px"/></a>
 					</span>
 				</td>
@@ -101,6 +101,23 @@ class  Signature extends Component {
                          "height":"2px", "width":"600px", "margin":"0px 0px 0px 0px"}}><div></div></td>
 				</tr>
 		</tbody>	
+		</table>
+		<table width="600" id="sig5" cellSpacing="0" cellPadding="0" style={{"borderSpacing":"0"}}>
+			<tbody>	
+			{/* Company Name */}
+			<tr className="color-tr">
+				<td className="inner-td" style={{"textAlign":"right"}}>
+					<span className="iso-span">
+							<a href="http://www.sgs.com/certifiedclients"><img src="http://cdn.achilles.pl/fsc.png" width="50px" /></a>
+					</span>
+				</td>
+				<td className="inner-td" style={{"textAlign":"right", "width":"200px"}}>
+					<span className="iso-span">
+							<a href="http://www.sgs.com/certifiedclients"><img src="http://cdn.achilles.pl/pefc.png" width="120px"/></a>
+					</span>
+				</td>
+			</tr>
+			</tbody>	
 		</table>
 		<table width="600" style={{"tableLayout":"fixed"}}>
 			<tbody>	
